@@ -1,4 +1,4 @@
-#Switching density network pendulum controller identification
+## Switching density network pendulum controller identification
 
 
 As an explanation aid, we include a jupyter notebook that provides a mimimum working example of a switching density network.
