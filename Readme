@@ -1,0 +1,13 @@
+Readme:
+--------
+
+As an explanation aid, we include a jupyter notebook that provides a mimimum working example of a switching density network. It should be noted that the primary experimental results provided in the paper rely on large datasets, so are not included here. This code and data will be shared through github at a later stage.
+
+Requirements:
+
+- Keras
+- Open AI gym
+- Tensorflow
+- Tensorflow probability
+
+
